@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "name space  using";
+    int myVariable = 5;
+    cout << "name space using" << myVariable;
     return 0;
 }
